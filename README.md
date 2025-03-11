@@ -1,5 +1,5 @@
 # Ex-01-Linux-Commands
-# NAME= NAVEEN
+# NAME:NAVEEN
 
 ## Aim:
 
